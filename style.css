@@ -268,7 +268,6 @@ div.tengah-kanan img{
     gap:10rem;
 }
 .footer-kiri{
-    /* border: 2px solid red; */
     display: grid;
     justify-content: center;
 }
@@ -283,7 +282,7 @@ div.tengah-kanan img{
     height: 2rem;
     text-align: center;
     border-radius: 50px;
-    color:black;
+    color:var(--secondaryTextColor);
     padding: 5px;
     /* background-color: var(--secondaryTextColor); */
 }
@@ -315,7 +314,6 @@ div.tengah-kanan img{
     background-color: var(--secondaryTextColor);
 }
 .footer-kanan{
-    /* border: 3px solid red; */
     width: 100%;
 }
 
@@ -333,7 +331,6 @@ div.tengah-kanan img{
 }
 @media screen and (max-width:768px) {
     body{
-    /* background-color: green; */
     }
     .navigasi{
         grid-template-areas: "atas"
@@ -374,11 +371,9 @@ div.tengah-kanan img{
         gap:10px;
     }
     .kiriNavigasi i{
-        /* border: 2px solid; */
         width: 100%;
     }
     .kiriNavigasi p{
         width: 100%;
-        /* border: 2px solid; */
     }
 }
