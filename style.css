@@ -315,7 +315,7 @@ div.tengah-kanan img{
     background-color: var(--secondaryTextColor);
 }
 .footer-kanan{
-    border: 3px solid red;
+    /* border: 3px solid red; */
     width: 100%;
 }
 
