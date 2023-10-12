@@ -240,7 +240,7 @@ div.tengah-kanan img{
 .container-ikon-tengah2 img{
     padding: 1rem;
     box-shadow: 1px 1px 8px  black;
-    background-color: white;
+    background-color: var(--thirdTextColor);
 }
 
 
