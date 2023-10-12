@@ -297,7 +297,7 @@ div.tengah-kanan img{
     /* border: 2px solid; */
 }
 .container-message input,.container-message button, .container-message textarea{
-    background-color: rgb(252, 245, 245);
+    background-color: aqua;
     width: 100%;
     justify-self: center;
     border: 0;
